@@ -1,7 +1,7 @@
 # 🎯 PREDICTING CUSTOMER CHURN 🎯   
     
 <div align="center">  
-
+ 
 ![Kaggle](https://img.shields.io/badge/Kaggle-Playground%20S6E3-20BEFF?style=for-the-badge&logo=kaggle)  
 ![Rank](https://img.shields.io/badge/PUBLIC%20RANK-481%2F4143-FFD700?style=for-the-badge) 
 ![Rank](https://img.shields.io/badge/PRIVATE%20RANK-479%2F4143-00D9FF?style=for-the-badge)
